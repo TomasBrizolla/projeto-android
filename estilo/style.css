@@ -53,6 +53,8 @@ header > p{
     margin: auto;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.364);
     padding-bottom: 50px;
+    padding: 0 16px;
+    box-sizing: border-box;
 }
 
 header > h1 {
