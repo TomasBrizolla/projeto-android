@@ -48,8 +48,6 @@ header > p{
     font-family: var(--fonte-padrão);
     font-size: 1.2em;
     max-width: 600px;
-    padding-right: 10px;
-    padding-left: 10px;
     margin: auto;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.364);
     padding-bottom: 50px;
@@ -119,6 +117,8 @@ main p {
     text-align: justify;
     text-indent: 34px;
     line-height: 2em;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 
